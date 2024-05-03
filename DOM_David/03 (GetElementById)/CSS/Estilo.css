@@ -1,0 +1,8 @@
+#frase{
+    text-align: center;
+}
+
+#boton1, #boton2, #boton3{
+    text-align: center;
+    width: 200px;
+}
